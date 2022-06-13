@@ -32,7 +32,7 @@
 |데이터시각화|R언어를 이용한 시각화|3학점|
 
 
-github address : [korebee][github]
+github address:  [korebee][github]
 
 [githube]:http://github.com/korebee
 
